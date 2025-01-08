@@ -1,2 +1,2 @@
 # quadro-kanban
-Projeto para criar um qquadro estilo Kanban usando HTML, CSS e JavaScript
+Projeto para criar um quadro estilo Kanban usando HTML, CSS e JavaScript
